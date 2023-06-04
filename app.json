@@ -4,7 +4,15 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "proj",
-    "slug": "proj"
+    "name": "ExpenseApp",
+    "slug": "proj",
+    "extra": {
+      "eas": {
+        "projectId": "47134444-1c3a-4e09-bdef-d5cb92ef8bc5"
+      }
+    },
+    "android": {
+      "package": "com.avy_2808.proj"
+    }
   }
 }
